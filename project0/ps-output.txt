@@ -1,5 +1,214 @@
-    PID TTY      STAT   TIME COMMAND
-   4750 pts/0    Ss     0:00 bash SYSTEMD_EXEC_PID=1818 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh SESSION_MANAGER=local/chitraksha:@/tmp/.ICE-unix/1786,unix/chitraksha:/tmp/.ICE-unix/1786 GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/c827cc91_e7db_4760_84a1_026444931a3e LANG=en_US.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME PWD=/home/chitraksha7 WAYLAND_DISPLAY=wayland-0 XDG_SESSION_CLASS=user QT_IM_MODULE=ibus USER=chitraksha7 DESKTOP_SESSION=ubuntu XDG_MENU_PREFIX=gnome- HOME=/home/chitraksha7 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus _=/usr/bin/gnome-session XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg VTE_VERSION=7600 XDG_SESSION_DESKTOP=ubuntu GSM_SKIP_SSH_AGENT_WORKAROUND=true QT_ACCESSIBILITY=1 GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SETUP_DISPLAY=:1 DEBUGINFOD_URLS=https://debuginfod.ubuntu.com  LOGNAME=chitraksha7 GNOME_TERMINAL_SERVICE=:1.148 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin XDG_RUNTIME_DIR=/run/user/1000 XMODIFIERS=@im=ibus SHELL=/bin/bash XDG_SESSION_TYPE=wayland GNOME_SHELL_SESSION_MODE=ubuntu MEMORY_PRESSURE_WATCH=/sys/fs/cgroup/user.slice/user-1000.slice/user@1000.service/session.slice/org.gnome.Shell@wayland.service/memory.pressure GTK_MODULES=gail:atk-bridge USERNAME=chitraksha7 MEMORY_PRESSURE_WRITE=c29tZSAyMDAwMDAgMjAwMDAwMAA= COLORTERM=truecolor XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJOSQ2 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop DISPLAY=:0 TERM=xterm-256color GDMSESSION=ubuntu IM_CONFIG_PHASE=1
-   8866 pts/0    R+     0:00  \_ ps ef SHELL=/bin/bash SESSION_MANAGER=local/chitraksha:@/tmp/.ICE-unix/1786,unix/chitraksha:/tmp/.ICE-unix/1786 QT_ACCESSIBILITY=1 COLORTERM=truecolor XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_MENU_PREFIX=gnome- GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SHELL_SESSION_MODE=ubuntu SSH_AUTH_SOCK=/run/user/1000/keyring/ssh MEMORY_PRESSURE_WRITE=c29tZSAyMDAwMDAgMjAwMDAwMAA= XMODIFIERS=@im=ibus DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge PWD=/home/chitraksha7/cy2550/project0 LOGNAME=chitraksha7 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_TYPE=wayland SYSTEMD_EXEC_PID=1818 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJOSQ2 HOME=/home/chitraksha7 USERNAME=chitraksha7 IM_CONFIG_PHASE=1 LANG=en_US.UTF-8 LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90: XDG_CURRENT_DESKTOP=ubuntu:GNOME MEMORY_PRESSURE_WATCH=/sys/fs/cgroup/user.slice/user-1000.slice/user@1000.service/session.slice/org.gnome.Shell@wayland.service/memory.pressure VTE_VERSION=7600 WAYLAND_DISPLAY=wayland-0 GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/c827cc91_e7db_4760_84a1_026444931a3e GNOME_SETUP_DISPLAY=:1 LESSCLOSE=/usr/bin/lesspipe %s %s XDG_SESSION_CLASS=user TERM=xterm-256color LESSOPEN=| /usr/bin/lesspipe %s USER=chitraksha7 GNOME_TERMINAL_SERVICE=:1.148 DISPLAY=:0 SHLVL=1 GSM_SKIP_SSH_AGENT_WORKAROUND=true QT_IM_MODULE=ibus XDG_RUNTIME_DIR=/run/user/1000 DEBUGINFOD_URLS=https://debuginfod.ubuntu.com  XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin GDMSESSION=ubuntu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus OLDPWD=/home/chitraksha7 _=/usr/bin/ps
-   1697 tty2     Ssl+   0:00 /usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu XDG_SEAT=seat0 LOGNAME=chitraksha7 USER=chitraksha7 USERNAME=chitraksha7 HOME=/home/chitraksha7 PWD=/home/chitraksha7 SHELL=/bin/bash PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin XDG_SESSION_TYPE=wayland XDG_VTNR=2 LANG=en_US.UTF-8 XDG_SESSION_ID=3 XDG_RUNTIME_DIR=/run/user/1000 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_SESSION_CLASS=user XDG_CURRENT_DESKTOP=ubuntu:GNOME GDMSESSION=ubuntu DESKTOP_SESSION=ubuntu XDG_SESSION_DESKTOP=ubuntu
-   1703 tty2     Sl+    0:00  \_ /usr/libexec/gnome-session-binary --session=ubuntu USER=chitraksha7 XDG_SEAT=seat0 XDG_SESSION_TYPE=wayland SHLVL=0 HOME=/home/chitraksha7 DESKTOP_SESSION=ubuntu GNOME_SHELL_SESSION_MODE=ubuntu GTK_MODULES=gail:atk-bridge GSM_SKIP_SSH_AGENT_WORKAROUND=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DEBUGINFOD_URLS=https://debuginfod.ubuntu.com  IM_CONFIG_PHASE=1 LOGNAME=chitraksha7 _=/usr/bin/gnome-session XDG_SESSION_CLASS=user USERNAME=chitraksha7 XDG_SESSION_ID=3 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin XDG_RUNTIME_DIR=/run/user/1000 LANG=en_US.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_SESSION_DESKTOP=ubuntu SSH_AUTH_SOCK=/run/user/1000/gnupg/S.gpg-agent.ssh SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu XDG_VTNR=2 PWD=/home/chitraksha7 XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 15:08 ?        00:00:06 /sbin/init
+root           2       0  0 15:08 ?        00:00:00 [kthreadd]
+root           3       2  0 15:08 ?        00:00:00 [pool_workqueue_release]
+root           4       2  0 15:08 ?        00:00:00 [kworker/R-rcu_g]
+root           5       2  0 15:08 ?        00:00:00 [kworker/R-rcu_p]
+root           6       2  0 15:08 ?        00:00:00 [kworker/R-slub_]
+root           7       2  0 15:08 ?        00:00:00 [kworker/R-netns]
+root           9       2  0 15:08 ?        00:00:00 [kworker/0:0H-events_highpri]
+root          12       2  0 15:08 ?        00:00:00 [kworker/R-mm_pe]
+root          13       2  0 15:08 ?        00:00:00 [rcu_tasks_kthread]
+root          14       2  0 15:08 ?        00:00:00 [rcu_tasks_rude_kthread]
+root          15       2  0 15:08 ?        00:00:00 [rcu_tasks_trace_kthread]
+root          16       2  0 15:08 ?        00:00:00 [ksoftirqd/0]
+root          17       2  0 15:08 ?        00:00:01 [rcu_preempt]
+root          18       2  0 15:08 ?        00:00:00 [migration/0]
+root          19       2  0 15:08 ?        00:00:00 [idle_inject/0]
+root          20       2  0 15:08 ?        00:00:00 [cpuhp/0]
+root          21       2  0 15:08 ?        00:00:00 [cpuhp/1]
+root          22       2  0 15:08 ?        00:00:00 [idle_inject/1]
+root          23       2  0 15:08 ?        00:00:00 [migration/1]
+root          24       2  0 15:08 ?        00:00:00 [ksoftirqd/1]
+root          26       2  0 15:08 ?        00:00:00 [kworker/1:0H-events_highpri]
+root          27       2  0 15:08 ?        00:00:00 [cpuhp/2]
+root          28       2  0 15:08 ?        00:00:00 [idle_inject/2]
+root          29       2  0 15:08 ?        00:00:00 [migration/2]
+root          30       2  0 15:08 ?        00:00:00 [ksoftirqd/2]
+root          32       2  0 15:08 ?        00:00:00 [kworker/2:0H-events_highpri]
+root          33       2  0 15:08 ?        00:00:00 [cpuhp/3]
+root          34       2  0 15:08 ?        00:00:00 [idle_inject/3]
+root          35       2  0 15:08 ?        00:00:00 [migration/3]
+root          36       2  0 15:08 ?        00:00:00 [ksoftirqd/3]
+root          38       2  0 15:08 ?        00:00:00 [kworker/3:0H-events_highpri]
+root          39       2  0 15:08 ?        00:00:00 [kdevtmpfs]
+root          40       2  0 15:08 ?        00:00:00 [kworker/R-inet_]
+root          42       2  0 15:08 ?        00:00:00 [kauditd]
+root          43       2  0 15:08 ?        00:00:00 [khungtaskd]
+root          44       2  0 15:08 ?        00:00:00 [oom_reaper]
+root          45       2  0 15:08 ?        00:00:00 [kworker/R-write]
+root          46       2  0 15:08 ?        00:00:01 [kcompactd0]
+root          47       2  0 15:08 ?        00:00:00 [ksmd]
+root          49       2  0 15:08 ?        00:00:00 [khugepaged]
+root          50       2  0 15:08 ?        00:00:00 [kworker/R-kinte]
+root          51       2  0 15:08 ?        00:00:00 [kworker/R-kbloc]
+root          52       2  0 15:08 ?        00:00:00 [kworker/R-blkcg]
+root          54       2  0 15:08 ?        00:00:00 [kworker/R-tpm_d]
+root          55       2  0 15:08 ?        00:00:00 [kworker/R-ata_s]
+root          56       2  0 15:08 ?        00:00:00 [kworker/R-md]
+root          57       2  0 15:08 ?        00:00:00 [kworker/R-md_bi]
+root          58       2  0 15:08 ?        00:00:00 [kworker/R-edac-]
+root          59       2  0 15:08 ?        00:00:00 [kworker/R-devfr]
+root          60       2  0 15:08 ?        00:00:00 [watchdogd]
+root          61       2  0 15:08 ?        00:00:00 [kworker/2:1H-kblockd]
+root          63       2  0 15:08 ?        00:00:00 [kswapd0]
+root          64       2  0 15:08 ?        00:00:00 [ecryptfs-kthread]
+root          65       2  0 15:08 ?        00:00:00 [kworker/R-kthro]
+root          66       2  0 15:08 ?        00:00:00 [irq/49-ACPI:Ged]
+root          67       2  0 15:08 ?        00:00:00 [kworker/R-acpi_]
+root          69       2  0 15:08 ?        00:00:00 [kworker/R-mld]
+root          70       2  0 15:08 ?        00:00:00 [kworker/R-ipv6_]
+root          77       2  0 15:08 ?        00:00:00 [kworker/R-kstrp]
+root          79       2  0 15:08 ?        00:00:00 [kworker/u9:0]
+root          83       2  0 15:08 ?        00:00:00 [kworker/R-charg]
+root         111       2  0 15:08 ?        00:00:00 [kworker/1:1H-kblockd]
+root         112       2  0 15:08 ?        00:00:00 [kworker/0:1H-kblockd]
+root         139       2  0 15:08 ?        00:00:00 [kworker/3:1H-kblockd]
+root         140       2  0 15:08 ?        00:00:00 [hwrng]
+root         186       2  0 15:08 ?        00:00:00 [kworker/R-kdmfl]
+root         215       2  0 15:08 ?        00:00:00 [kworker/R-raid5]
+root         259       2  0 15:08 ?        00:00:00 [jbd2/dm-0-8]
+root         262       2  0 15:08 ?        00:00:00 [kworker/R-ext4-]
+root         331       1  0 15:08 ?        00:00:02 /usr/lib/systemd/systemd-journald
+root         355       2  0 15:08 ?        00:00:00 [kworker/R-kmpat]
+root         356       2  0 15:08 ?        00:00:00 [kworker/R-kmpat]
+root         384       1  0 15:08 ?        00:00:05 /sbin/multipathd -d -s
+root         414       1  0 15:08 ?        00:00:00 /usr/lib/systemd/systemd-udevd
+root         423       2  0 15:08 ?        00:00:00 [psimon]
+root         504       2  0 15:08 ?        00:00:00 [jbd2/vda2-8]
+root         505       2  0 15:08 ?        00:00:00 [kworker/R-ext4-]
+root         544       2  0 15:08 ?        00:00:00 [scsi_eh_0]
+root         549       2  0 15:08 ?        00:00:00 [kworker/R-scsi_]
+root         555       2  0 15:08 ?        00:00:04 [usb-storage]
+root         581       2  0 15:08 ?        00:00:00 [kworker/R-uas]
+systemd+     603       1  0 15:08 ?        00:00:00 /usr/lib/systemd/systemd-networkd
+systemd+     665       1  0 15:08 ?        00:00:13 /usr/lib/systemd/systemd-oomd
+systemd+     679       1  0 15:08 ?        00:00:01 /usr/lib/systemd/systemd-resolved
+systemd+     687       1  0 15:08 ?        00:00:00 /usr/lib/systemd/systemd-timesyncd
+root         743       2  0 15:08 ?        00:00:00 [kworker/R-cfg80]
+avahi        767       1  0 15:08 ?        00:00:02 avahi-daemon: running [chitraksha.local]
+message+     768       1  0 15:08 ?        00:00:02 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+gnome-r+     771       1  0 15:08 ?        00:00:00 /usr/libexec/gnome-remote-desktop-daemon --system
+polkitd      774       1  0 15:08 ?        00:00:00 /usr/lib/polkit-1/polkitd --no-debug
+root         775       1  0 15:08 ?        00:00:00 /usr/libexec/power-profiles-daemon
+root         776       1  0 15:08 ?        00:00:00 /usr/bin/qrtr-ns -f 1
+root         782       1  0 15:08 ?        00:00:07 /usr/lib/snapd/snapd
+root         789       1  0 15:08 ?        00:00:01 /usr/libexec/accounts-daemon
+root         798       1  0 15:08 ?        00:00:00 /usr/libexec/switcheroo-control
+root         803       1  0 15:08 ?        00:00:00 /usr/lib/systemd/systemd-logind
+root         804       1  0 15:08 ?        00:00:01 /usr/libexec/udisks2/udisksd
+avahi        833     767  0 15:08 ?        00:00:00 avahi-daemon: chroot helper
+root         837       1  0 15:08 ?        00:00:02 /usr/sbin/NetworkManager --no-daemon
+root         844       1  0 15:08 ?        00:00:00 /usr/sbin/wpa_supplicant -u -s -O DIR=/run/wpa_supplicant GROUP=netdev
+syslog       846       1  0 15:08 ?        00:00:00 /usr/sbin/rsyslogd -n -iNONE
+root         901       1  0 15:08 ?        00:00:00 /usr/sbin/ModemManager
+root         995       1  0 15:08 ?        00:00:00 /usr/sbin/cupsd -l
+root         997       1  0 15:08 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+lp          1003     995  0 15:08 ?        00:00:00 /usr/lib/cups/notifier/dbus dbus://
+lp          1004     995  0 15:08 ?        00:00:00 /usr/lib/cups/notifier/dbus dbus://
+cups-br+    1095       1  0 15:10 ?        00:00:00 /usr/sbin/cups-browsed
+root        1097       1  0 15:10 ?        00:00:00 /usr/sbin/cron -f -P
+kernoops    1101       1  0 15:10 ?        00:00:00 /usr/sbin/kerneloops --test
+root        1110       1  0 15:10 ?        00:00:00 /sbin/agetty -o -p -- \u --keep-baud 115200,57600,38400,9600 - vt220
+kernoops    1112       1  0 15:10 ?        00:00:00 /usr/sbin/kerneloops
+root        1117       1  0 15:10 ?        00:00:00 /usr/sbin/gdm3
+root        1138       2  0 15:10 ?        00:00:00 [psimon]
+rtkit       1166       1  0 15:10 ?        00:00:00 /usr/libexec/rtkit-daemon
+colord      1238       1  0 15:10 ?        00:00:00 /usr/libexec/colord
+root        1277       1  0 15:10 ?        00:00:00 /usr/libexec/upowerd
+root        1533       1  0 15:10 ?        00:00:07 /usr/sbin/spice-vdagentd
+root        1630    1117  0 15:19 ?        00:00:00 gdm-session-worker [pam/gdm-password]
+chitrak+    1642       1  0 15:19 ?        00:00:02 /usr/lib/systemd/systemd --user
+chitrak+    1647    1642  0 15:19 ?        00:00:00 (sd-pam)
+chitrak+    1658    1642  0 15:19 ?        00:00:01 /usr/bin/pipewire
+chitrak+    1659    1642  0 15:19 ?        00:00:00 /usr/bin/pipewire -c filter-chain.conf
+chitrak+    1661    1642  0 15:19 ?        00:00:00 /usr/bin/wireplumber
+chitrak+    1662    1642  0 15:19 ?        00:00:00 /usr/bin/pipewire-pulse
+chitrak+    1663    1642  0 15:19 ?        00:00:00 /usr/bin/gnome-keyring-daemon --foreground --components=pkcs11,secrets --control-directory=/run/user/1000/keyring
+chitrak+    1666    1642  0 15:19 ?        00:00:02 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+chitrak+    1697    1630  0 15:19 tty2     00:00:00 /usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+chitrak+    1703    1697  0 15:19 tty2     00:00:00 /usr/libexec/gnome-session-binary --session=ubuntu
+chitrak+    1761    1642  0 15:19 ?        00:00:00 /usr/libexec/gcr-ssh-agent --base-dir /run/user/1000/gcr
+chitrak+    1762    1642  0 15:19 ?        00:00:00 /usr/libexec/gnome-session-ctl --monitor
+chitrak+    1778    1642  0 15:19 ?        00:00:00 /usr/libexec/gvfsd
+chitrak+    1784    1642  0 15:19 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+chitrak+    1786    1642  0 15:19 ?        00:00:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+chitrak+    1817    1786  0 15:19 ?        00:00:00 /usr/libexec/at-spi-bus-launcher --launch-immediately
+chitrak+    1818    1642  1 15:19 ?        00:05:25 /usr/bin/gnome-shell
+chitrak+    1830    1817  0 15:19 ?        00:00:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus
+chitrak+    1876    1642  0 15:19 ?        00:00:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+chitrak+    1891    1642  0 15:19 ?        00:00:00 /usr/libexec/gnome-shell-calendar-server
+chitrak+    1892    1642  0 15:19 ?        00:00:00 /usr/libexec/xdg-permission-store
+chitrak+    1904    1642  0 15:19 ?        00:00:00 /usr/libexec/evolution-source-registry
+chitrak+    1916    1642  0 15:19 ?        00:00:00 /usr/bin/gjs -m /usr/share/gnome-shell/org.gnome.Shell.Notifications
+chitrak+    1926    1642  0 15:19 ?        00:00:11 /usr/bin/ibus-daemon --panel disable
+chitrak+    1928    1642  0 15:19 ?        00:00:00 /usr/libexec/gsd-a11y-settings
+chitrak+    1934    1642  0 15:19 ?        00:00:00 /usr/libexec/gsd-color
+chitrak+    1935    1642  0 15:19 ?        00:00:00 /usr/libexec/gsd-datetime
+chitrak+    1938    1642  0 15:19 ?        00:00:01 /usr/libexec/gsd-housekeeping
+chitrak+    1941    1642  0 15:19 ?        00:00:00 /usr/libexec/gsd-keyboard
+chitrak+    1948    1642  0 15:19 ?        00:00:00 /usr/libexec/gsd-media-keys
+chitrak+    1950    1642  0 15:19 ?        00:00:00 /usr/libexec/gsd-power
+chitrak+    1962    1642  0 15:19 ?        00:00:00 /usr/libexec/gsd-print-notifications
+chitrak+    1964    1642  0 15:19 ?        00:00:00 /usr/libexec/gsd-rfkill
+chitrak+    1965    1642  0 15:19 ?        00:00:00 /usr/libexec/gsd-screensaver-proxy
+chitrak+    1966    1642  0 15:19 ?        00:00:00 /usr/libexec/gsd-sharing
+chitrak+    1969    1642  0 15:19 ?        00:00:00 /usr/libexec/gsd-smartcard
+chitrak+    1970    1642  0 15:19 ?        00:00:00 /usr/libexec/gsd-sound
+chitrak+    1974    1642  0 15:19 ?        00:00:00 /usr/libexec/gsd-wacom
+chitrak+    1975    1642  0 15:19 ?        00:00:00 /usr/bin/spice-vdagent
+chitrak+    2031    1926  0 15:19 ?        00:00:00 /usr/libexec/ibus-memconf
+chitrak+    2037    1926  0 15:19 ?        00:00:03 /usr/libexec/ibus-extension-gtk3
+chitrak+    2038    1642  0 15:19 ?        00:00:00 /usr/libexec/gvfs-udisks2-volume-monitor
+chitrak+    2043    1642  0 15:19 ?        00:00:00 /usr/libexec/ibus-portal
+chitrak+    2051    1642  0 15:19 ?        00:00:00 /usr/libexec/gsd-printer
+chitrak+    2053    1642  0 15:19 ?        00:00:00 /usr/libexec/goa-daemon
+chitrak+    2093    1642  0 15:19 ?        00:00:00 /usr/libexec/goa-identity-service
+chitrak+    2106    1642  0 15:19 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+chitrak+    2110    1642  0 15:19 ?        00:00:00 /usr/libexec/evolution-calendar-factory
+chitrak+    2115    1642  0 15:19 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+chitrak+    2123    1642  0 15:19 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+chitrak+    2130    1642  0 15:19 ?        00:00:02 /usr/libexec/gvfs-afc-volume-monitor
+chitrak+    2142    1642  0 15:19 ?        00:00:00 /usr/libexec/evolution-addressbook-factory
+chitrak+    2144    1818  0 15:19 ?        00:00:00 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.FJOSQ2 -listenfd 4 -listenfd 5 -displayfd 6 -initfd 7 -byteswappedclients
+chitrak+    2160    1926  0 15:19 ?        00:00:03 /usr/libexec/ibus-engine-simple
+chitrak+    2203    1778  0 15:19 ?        00:00:00 /usr/libexec/gvfsd-trash --spawner :1.17 /org/gtk/gvfs/exec_spaw/0
+chitrak+    2226    1642  0 15:19 ?        00:00:00 /usr/libexec/dconf-service
+chitrak+    2240    1642  0 15:19 ?        00:00:01 /usr/libexec/tracker-miner-fs-3
+chitrak+    2242    1642  0 15:19 ?        00:00:01 /usr/libexec/xdg-desktop-portal
+chitrak+    2248    1642  0 15:19 ?        00:00:00 /usr/libexec/gsd-xsettings
+chitrak+    2253    1642  0 15:19 ?        00:00:00 /usr/libexec/xdg-document-portal
+chitrak+    2275    1642  0 15:19 ?        00:00:00 /usr/bin/gjs -m /usr/share/gnome-shell/org.gnome.ScreenSaver
+root        2293    2253  0 15:19 ?        00:00:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+chitrak+    2310    1642  0 15:19 ?        00:00:00 /usr/libexec/xdg-desktop-portal-gnome
+chitrak+    2363    1642  0 15:19 ?        00:00:00 /usr/libexec/gvfsd-metadata
+chitrak+    2365    1642  0 15:19 ?        00:00:00 /usr/libexec/xdg-desktop-portal-gtk
+chitrak+    2382    1642  0 15:19 ?        00:00:00 /usr/libexec/ibus-x11
+chitrak+    2399    1818  0 15:19 ?        00:00:00 /usr/libexec/mutter-x11-frames
+chitrak+    2408    1786  0 15:19 ?        00:00:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+chitrak+    2418    1786  0 15:19 ?        00:00:00 /usr/libexec/gsd-disk-utility-notify
+chitrak+    2589    1778  0 15:20 ?        00:00:00 /usr/libexec/gvfsd-recent --spawner :1.17 /org/gtk/gvfs/exec_spaw/1
+chitrak+    2614    1786  0 15:20 ?        00:00:02 /usr/bin/update-notifier
+root        4057       1  0 16:05 ?        00:00:03 /usr/libexec/fwupd/fwupd
+root        4083       1  0 16:05 ?        00:00:00 gpg-agent --homedir /var/lib/fwupd/gnupg --use-standard-socket --daemon
+chitrak+    4743    1642  0 16:49 ?        00:00:24 /usr/libexec/gnome-terminal-server
+chitrak+    4750    4743  0 16:49 pts/0    00:00:00 bash
+root        5469       2  0 17:59 ?        00:00:00 [kworker/R-tls-s]
+root        6124       2  0 18:10 ?        00:00:00 [kworker/3:0-events]
+root        7071       2  0 18:30 ?        00:00:00 [kworker/2:2-events]
+chitrak+    7202    1663  0 18:59 ?        00:00:00 /usr/bin/ssh-agent -D -a /run/user/1000/keyring/.ssh
+chitrak+    8152    1818  0 19:20 ?        00:00:00 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+root        8206       2  0 19:20 ?        00:00:00 [kworker/1:1-events]
+root        8241       2  0 19:30 ?        00:00:00 [kworker/3:2]
+root        8246       2  0 19:31 ?        00:00:00 [kworker/0:0-events]
+root        8287       2  0 19:44 ?        00:00:00 [kworker/u8:2-events_unbound]
+root        8292       2  0 19:48 ?        00:00:00 [kworker/0:1-events]
+root        8299       2  0 19:50 ?        00:00:00 [kworker/2:3-kdmflush/252:0]
+root        8300       2  0 19:50 ?        00:00:00 [kworker/u8:1-events_power_efficient]
+root        8582       2  0 19:53 ?        00:00:00 [kworker/1:2-cgroup_destroy]
+root        8877       2  0 19:56 ?        00:00:00 [kworker/u8:3-events_unbound]
+root        8889       2  0 19:59 ?        00:00:00 [kworker/0:2-events]
+root        8895       2  0 20:00 ?        00:00:00 [kworker/1:0]
+root        8896       2  0 20:00 ?        00:00:00 [kworker/1:3]
+root        8903       2  0 20:02 ?        00:00:00 [kworker/2:0-events]
+chitrak+    8914    4750 99 20:04 pts/0    00:00:00 ps -ef
