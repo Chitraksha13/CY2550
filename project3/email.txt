@@ -1,1 +1,1 @@
-kashyap.c@northeastern.edu.shadow
+kashyap.c@northeastern.edu
